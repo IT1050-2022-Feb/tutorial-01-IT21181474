@@ -12,5 +12,5 @@ int main() {
   average=(subject1+subject2)/2.0;  //calculate average
   printf("Average is %f",average);
   return 0;
-}//end main function
+} //end main function
 

@@ -26,7 +26,7 @@ int main() {
   if(distance<=30)
     amount=distance*50; //calculate amount
   else
-    amount=distance*50+(50-30)*40; 
-  printf("Amount is %.2f",amount); //calculate amount
+    amount=distance*50+(50-30)*40; //calculate amount
+  printf("Amount is %.2f",amount); 
   return 0;
 }//end main funfunction 
